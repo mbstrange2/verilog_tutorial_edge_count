@@ -1,6 +1,21 @@
 # EE271_edge_cnt
 Intro Module for getting a feel for verilog
 
+## Resources
+### Links
++ [Verilog Tutorial](http://www.doulos.com/knowhow/verilog_designers_guide/)
++ [SystemVerilog Tutorial](http://www.doulos.com/knowhow/sysverilog/tutorial/)
++ [SystemVerilog Assertions Tutorial](http://www.doulos.com/knowhow/sysverilog/tutorial/assertions/)
++ [SystemVerilog DPI Tutorial](http://www.doulos.com/knowhow/sysverilog/tutorial/dpi/)
+### Books
++ [SystemVerilog for Design](http://www.springerlink.com/content/w134858r71387n5h/)
++ [SystemVerilog for Verification](http://www.springerlink.com/content/x71knj/)
++ [Interfacing with C](http://www.springerlink.com/content/j703h3nj43498410/?p=67a54fc6ae7f4195b6def6f1196cbad6&pi=11)
++ [Writing Testbenches using SystemVerilog](http://www.springerlink.com/content/kv2481/)
+
+### Verilator (free, open-source simulator)
++ [Verilator](https://www.veripool.org/wiki/verilator)
+
 ## Instructions
 0. Get on the caddy systems - `ssh -Y <SUNetID>@caddy.stanford.edu`, clone this repo: `git clone https://github.com/mbstrange2/EE271_edge_cnt.git`, then activate tcsh :`tcsh`
 and source the setup file in the repo `source setup_ee271.cshrc` - **YOU NEED TO BE ON THE STANFORD NETWORK FOR THIS - EITHER ON CAMPUS OR THROUGH THE VPN**
