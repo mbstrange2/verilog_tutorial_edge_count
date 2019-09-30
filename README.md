@@ -17,7 +17,7 @@ Intro Module for getting a feel for verilog
 + [Verilator](https://www.veripool.org/wiki/verilator)
 
 ## Instructions
-0. Get on the caddy systems - `ssh -Y <SUNetID>@caddy.stanford.edu`, clone this repo: `git clone https://github.com/mbstrange2/EE271_edge_cnt.git`, then activate tcsh :`tcsh`
+0. Get on the caddy systems - `ssh -Y <SUNetID>@caddy.stanford.edu`, clone this repo: `git clone https://github.com/mbstrange2/verilog_tutorial_edge_count.git`, then activate tcsh :`tcsh`
 and source the setup file in the repo `source setup_ee271.cshrc` - **YOU NEED TO BE ON THE STANFORD NETWORK FOR THIS - EITHER ON CAMPUS OR THROUGH THE VPN**
 1. First off, the gold code is in `edge_cnt_gold.sv`. I implore you to try figuring it out on your own and implementing
 your solution in `edge_cnt.sv` before looking at mine.  I've provided obvious places to insert code in this module with comments.
