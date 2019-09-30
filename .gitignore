@@ -1,0 +1,8 @@
+*.vcd
+simv*
+csrc
+DVEfiles
+*.log
+ucli.key
+*.vpd
+*afs*
