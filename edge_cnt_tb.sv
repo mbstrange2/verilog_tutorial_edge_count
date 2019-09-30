@@ -50,7 +50,7 @@ initial begin
     // Now do a ton of iterations, checking the results
     // It may be helpful to uncomment some of these displays 
     // for debbugging purposes
-    for(i = 0; i < 100; i++) begin
+    for(i = 0; i < 1000000; i++) begin
         @(posedge clk);
         //$display("IN WAS: %b, IN IS NOW: %b", in_prev, in);
         if((in == 1) && (in_prev == 0)) begin
